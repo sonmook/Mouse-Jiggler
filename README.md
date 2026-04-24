@@ -9,7 +9,7 @@ Uma aplicação Desktop leve e moderna desenvolvida em Python para prevenir inat
 ## 📸 Visual da Aplicação
 
 <div align="center">
-  <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Screenshot do Auto Mouse TI" width="400px">
+  <img src="printAutoMouse.png" alt="Screenshot do Auto Mouse TI" width="400px">
 </div>
 
 ## 🚀 Funcionalidades Principais
@@ -31,5 +31,5 @@ Uma aplicação Desktop leve e moderna desenvolvida em Python para prevenir inat
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/sonmook/NOME_DO_REPOSITORIO.git](https://github.com/sonmook/NOME_DO_REPOSITORIO.git)
-   cd NOME_DO_REPOSITORIO
+   git clone [https://github.com/sonmook/Mouse-Jiggler.git](https://github.com/sonmook/Mouse-Jiggler.git)
+   cd Mouse-Jiggler
