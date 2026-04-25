@@ -1,8 +1,8 @@
 import customtkinter as ctk
 import pyautogui
 import threading
-import sys  # NOVO
-import os   # NOVO
+import sys  
+import os 
 
 # Função para encontrar o caminho correto dos arquivos no PyInstaller
 def resource_path(relative_path):
